@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/CMakeFiles/picotoolBuild
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/CMakeFiles/picotoolBuild.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/CMakeFiles/picotoolBuild-complete.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

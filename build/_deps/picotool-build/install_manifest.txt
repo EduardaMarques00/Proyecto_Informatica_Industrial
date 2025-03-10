@@ -1,0 +1,5 @@
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/_deps/picotool/picotool
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/_deps/picotool/picotoolTargets.cmake
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/_deps/picotool/picotoolTargets-release.cmake
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/_deps/picotool/picotoolConfig.cmake
+/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/_deps/picotool/picotoolConfigVersion.cmake
