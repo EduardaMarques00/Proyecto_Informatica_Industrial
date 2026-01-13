@@ -1,4 +1,4 @@
-# Install script for directory: /home/felipe/Desktop/FreeRTOS/pico-sdk/src/rp2040/pico_platform
+# Install script for directory: /home/eduarda/2025.1/RTOS/pico/pico-sdk/src/rp2040/pico_platform
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

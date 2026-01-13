@@ -1,0 +1,5 @@
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm-install/pioasm/pioasm
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

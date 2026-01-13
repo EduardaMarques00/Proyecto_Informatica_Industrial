@@ -1,4 +1,4 @@
-// Padded and checksummed version of: /home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: /home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

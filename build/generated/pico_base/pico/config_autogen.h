@@ -4,7 +4,7 @@
 
 // based on PICO_CONFIG_HEADER_FILES:
 
-#include "/home/felipe/Desktop/FreeRTOS/pico-sdk/src/boards/include/boards/pico.h"
-#include "/home/felipe/Desktop/FreeRTOS/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h"
+#include "/home/eduarda/2025.1/RTOS/pico/pico-sdk/src/boards/include/boards/pico_w.h"
+#include "/home/eduarda/2025.1/RTOS/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h"
 
 // based on PICO_RP2040_CONFIG_HEADER_FILES:

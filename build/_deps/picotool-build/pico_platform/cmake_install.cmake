@@ -1,8 +1,8 @@
-# Install script for directory: /home/felipe/Desktop/FreeRTOS/pico-sdk/src/host/pico_platform
+# Install script for directory: /home/eduarda/2025.1/RTOS/pico/pico-sdk/src/host/pico_platform
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/_deps")
+  set(CMAKE_INSTALL_PREFIX "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

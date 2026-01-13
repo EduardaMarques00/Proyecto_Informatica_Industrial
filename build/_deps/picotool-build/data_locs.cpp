@@ -3,5 +3,5 @@
 #include <string>
 
 std::vector<std::string> data_locs = {
-    "./","/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/_deps/picotool/"
+    "./","/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool/"
 };

@@ -1,4 +1,4 @@
-# Install script for directory: /home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/src
+# Install script for directory: /home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

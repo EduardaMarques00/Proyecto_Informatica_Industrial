@@ -1,0 +1,7 @@
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm/CMakeFiles/pioasm.dir
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm/CMakeFiles/edit_cache.dir
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm/CMakeFiles/list_install_components.dir
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm/CMakeFiles/install.dir
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm/CMakeFiles/install/local.dir
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pioasm/CMakeFiles/install/strip.dir

@@ -1,4 +1,4 @@
-# Install script for directory: /home/felipe/Desktop/FreeRTOS/SafeDriverRTOS
+# Install script for directory: /home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,11 +37,27 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/usr/bin/arm-none-eabi-objdump")
 endif()
 
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
+   "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/PICO_FREERTOS.uf2")
+  if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
+    message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
+  endif()
+  if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
+    message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
+  endif()
+  file(INSTALL DESTINATION "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build" TYPE FILE FILES "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/PICO_FREERTOS.uf2")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  execute_process(COMMAND /home/eduarda/bin/picoDeploy.sh /home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/PICO_FREERTOS.elf)
+endif()
+
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/pico-sdk/cmake_install.cmake")
-  include("/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/FREERTOS_KERNEL/cmake_install.cmake")
-  include("/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/src/cmake_install.cmake")
+  include("/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pico-sdk/cmake_install.cmake")
+  include("/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/FREERTOS_KERNEL/cmake_install.cmake")
+  include("/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/cmake_install.cmake")
 
 endif()
 
@@ -53,5 +69,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,4 +1,4 @@
-# Install script for directory: /home/felipe/Desktop/FreeRTOS/pico-sdk/src/common/boot_picobin_headers
+# Install script for directory: /home/eduarda/2025.1/RTOS/pico/pico-sdk/src/common/boot_picobin_headers
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

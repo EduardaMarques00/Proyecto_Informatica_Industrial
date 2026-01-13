@@ -1,4 +1,4 @@
-# Install script for directory: /home/felipe/Desktop/FreeRTOS/pico-sdk
+# Install script for directory: /home/eduarda/2025.1/RTOS/pico/pico-sdk
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,16 +39,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/pico-sdk/tools/cmake_install.cmake")
+  include("/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pico-sdk/tools/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/pico-sdk/src/cmake_install.cmake")
+  include("/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pico-sdk/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/felipe/Desktop/FreeRTOS/SafeDriverRTOS/build/pico-sdk/docs/cmake_install.cmake")
+  include("/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/pico-sdk/docs/cmake_install.cmake")
 endif()
 

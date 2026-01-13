@@ -1,4 +1,4 @@
-# Install script for directory: /home/felipe/Desktop/FreeRTOS/FreeRTOS-Kernel/portable/ThirdParty/GCC/RP2040
+# Install script for directory: /home/eduarda/2025.1/RTOS/FreeRTOS/FreeRTOS/Source/portable/ThirdParty/GCC/RP2040
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
