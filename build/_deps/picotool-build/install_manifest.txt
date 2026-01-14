@@ -1,0 +1,7 @@
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool/picotool
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool/picotoolTargets.cmake
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool/picotoolTargets-release.cmake
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool/picotoolConfig.cmake
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool/enc_bootloader.elf
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool/enc_bootloader_mbedtls.elf

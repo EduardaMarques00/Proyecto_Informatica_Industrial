@@ -1,0 +1,2 @@
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
+/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir

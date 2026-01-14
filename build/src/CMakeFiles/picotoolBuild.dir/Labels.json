@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/home/eduarda/2025.1/RTOS/praticas/MotoristaAlerta/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}
