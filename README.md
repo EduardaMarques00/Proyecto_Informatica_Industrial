@@ -17,6 +17,7 @@ Sistema integrado que combina:
 
 ### Para probar solo el detector de fatiga (2 minutos):
 ```bash
-cd software/pc_fatiga_detector
-pip install -r requirements.txt
+git clone https://github.com/EduardaMarques00/Proyecto_Informatica_Industrial.git
+cd Proyecto_Informatica_Industrial/software/pc_fatiga_detector
+pip install opencv-python mediapipe numpy
 python prueba_rapida.py
