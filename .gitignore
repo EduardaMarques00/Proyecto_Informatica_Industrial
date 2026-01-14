@@ -1,0 +1,31 @@
+# Build directories
+build/
+*/build/
+*.o
+*.elf
+*.uf2
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos grandes (subir manualmente)
+*.mp4
+*.avi
+*.mov
+software/pico_vehicle_control/build/
+software/pico_vehicle_control/*.uf2
+software/pico_vehicle_control/*.elf
+software/pico_vehicle_control/*.bin
